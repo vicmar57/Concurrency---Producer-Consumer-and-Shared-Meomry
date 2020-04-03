@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b71615-3ea8-4dc9-9315-17ecc3a02026" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZyQ0l4M0e4TbY1Emr8i7XDf082" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Home school/dev/Big Data/Projects/SparkStreamTwitt" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MultiProdCons" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MultiProdCons" />
+      <module name="Multi Producer Consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiProdCons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Multi Producer Consumer" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="multi-producer-consumer [file:/C:/Users/vicma/IdeaProjects/Multi%20Producer%20Consumer/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Multi Producer Consumer-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3171617267235" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2301570988" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/funsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b71615-3ea8-4dc9-9315-17ecc3a02026" name="Default Changelist" comment="" />
+      <created>1585808633301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585808633301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-810" y="-172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585809931275">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-810" y="-172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585809931275" />
+    <state x="-817" y="-238" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585809080533">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-817" y="-238" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585809080533" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1585834274109">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689/-1080.-403.1080.1890@0.0.1280.689" timestamp="1585834274109" />
+    <state width="1040" height="151" key="GridCell.Tab.0.bottom" timestamp="1585923679662">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1034" height="453" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585818192266" />
+    <state width="1040" height="151" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-428.1080.1890@0.0.1280.689" timestamp="1585923679662" />
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1585823968206" />
+    <state width="1040" height="151" key="GridCell.Tab.0.center" timestamp="1585923679662">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1034" height="453" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585818192266" />
+    <state width="1040" height="151" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-428.1080.1890@0.0.1280.689" timestamp="1585923679662" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1585823968206" />
+    <state width="1040" height="151" key="GridCell.Tab.0.left" timestamp="1585923679662">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1034" height="453" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585818192266" />
+    <state width="1040" height="151" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-428.1080.1890@0.0.1280.689" timestamp="1585923679662" />
+    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1585823968206" />
+    <state width="1040" height="151" key="GridCell.Tab.0.right" timestamp="1585923679662">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1034" height="453" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585818192266" />
+    <state width="1040" height="151" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-428.1080.1890@0.0.1280.689" timestamp="1585923679662" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1585823968206" />
+    <state x="280" y="109" key="com.intellij.ide.util.TipDialog" timestamp="1585834237930">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="-844" y="-103" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585808651576" />
+    <state x="280" y="109" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-403.1080.1890@0.0.1280.689" timestamp="1585834237930" />
+    <state x="280" y="109" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1585825809463" />
+    <state x="-877" y="-196" key="search.everywhere.popup" timestamp="1585817675132">
+      <screen x="-1080" y="-403" width="1080" height="1890" />
+    </state>
+    <state x="-877" y="-196" key="search.everywhere.popup/0.0.1280.689/-1080.-403.1080.1890@-1080.-403.1080.1890" timestamp="1585817675132" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
